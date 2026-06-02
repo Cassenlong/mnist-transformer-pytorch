@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# MNIST dataset
+data/
+
+# Trained model checkpoints
+*.pth
+*.pt
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Temporary files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
