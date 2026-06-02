@@ -1,4 +1,4 @@
-# MNIST Transformer from Scratch with PyTorch
+# MNIST Transformer with PyTorch
 
 基于 PyTorch 手动实现 Transformer 网络结构，并完成 MNIST 手写数字识别任务。
 
